@@ -1,13 +1,17 @@
 Hi 👋 My name is Ramiro Caulo
 =============================
 
-Web developer
--------------
+**Web developer**
+
+<p>In 2020 I took an HTML/CSS course and that's where it all started. In order to reinforce knowledge, I took a Web Developer course in 2022.
+My goal is to continue adding skills in the tech area to work as a Front End Developer.</p>
+
+=============================
 
 *   🌍  I'm based in Buenos Aires
 *   ✉️  You can contact me at [ramicaulo@gmail.com](mailto:ramicaulo@gmail.com)
 *   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborating on game projects
+*   💪	Next goals? ReactJS & TypeScript
 
 ### Technologies & softwares:<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
